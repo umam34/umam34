@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Khoirul Umam Haqiqi**.\
 
-Saya seorang **Mahasiswa** di [Umku](umku.ac.id).\
+Saya seorang **Mahasiswa** di [Umku](umku.ac.id/).\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/khoirul-umam-haqiqi-8b2206165/)ku ya.
 
